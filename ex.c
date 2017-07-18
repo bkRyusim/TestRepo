@@ -8,6 +8,7 @@ int main()
 	printf("FORTEST");
 	
 	printf("OHOHOHOHOHOHOHOHOHOHOH");
+	printf("lollol");
 	return 0;
 
 }
