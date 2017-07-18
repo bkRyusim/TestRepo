@@ -1,5 +1,5 @@
 #include <string.h>
-
+sibal
 int main()
 {
 
